@@ -64,20 +64,20 @@
         <mxCell id="k5pUPagfCENTA0EcS7Cd-20" value="HP ProLiant DL 380 Gen 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="410" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k5pUPagfCENTA0EcS7Cd-21" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-21" value="GS&lt;div&gt;Office&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k5pUPagfCENTA0EcS7Cd-23" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-23" value="Reception" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k5pUPagfCENTA0EcS7Cd-25" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-25" value="Communications" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k5pUPagfCENTA0EcS7Cd-27" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k5pUPagfCENTA0EcS7Cd-29" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="605" width="120" height="60" as="geometry" />
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-29" value="Board Room" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
