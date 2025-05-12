@@ -1,9 +1,84 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.3">
   <diagram name="Page-1" id="FCiGR7SA0KtyH5cxzZ9L">
-    <mxGraphModel>
+    <mxGraphModel dx="786" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k5pUPagfCENTA0EcS7Cd-1" target="k5pUPagfCENTA0EcS7Cd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-1" value="INTENET" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k5pUPagfCENTA0EcS7Cd-2" target="k5pUPagfCENTA0EcS7Cd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-2" value="CISCO ROUTER&lt;div&gt;(C3825)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k5pUPagfCENTA0EcS7Cd-4" target="k5pUPagfCENTA0EcS7Cd-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k5pUPagfCENTA0EcS7Cd-4" target="k5pUPagfCENTA0EcS7Cd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k5pUPagfCENTA0EcS7Cd-4" target="k5pUPagfCENTA0EcS7Cd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k5pUPagfCENTA0EcS7Cd-4" target="k5pUPagfCENTA0EcS7Cd-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-4" value="DISTRIBUTION SWITCH&lt;div&gt;(WS-C22960X-48FPS-L)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="240" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k5pUPagfCENTA0EcS7Cd-10" target="k5pUPagfCENTA0EcS7Cd-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-10" value="Hyper-V Server&lt;div&gt;Active Directory&lt;/div&gt;&lt;div&gt;Kaspersky Server&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="390" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k5pUPagfCENTA0EcS7Cd-12" target="k5pUPagfCENTA0EcS7Cd-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k5pUPagfCENTA0EcS7Cd-12" target="k5pUPagfCENTA0EcS7Cd-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k5pUPagfCENTA0EcS7Cd-12" target="k5pUPagfCENTA0EcS7Cd-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k5pUPagfCENTA0EcS7Cd-12" target="k5pUPagfCENTA0EcS7Cd-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k5pUPagfCENTA0EcS7Cd-12" target="k5pUPagfCENTA0EcS7Cd-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-12" value="AP" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="390" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-15" value="LAN" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-17" value="QUICK BOOKS&lt;div&gt;(VM)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="545" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-20" value="HP ProLiant DL 380 Gen 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-21" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-23" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-25" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-27" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-29" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="605" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
