@@ -80,7 +80,7 @@
         <mxCell id="WjgJlmY67kMEzQ0u8_MV-7" value="AP Legal/HR" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);rounded=1;shadow=0;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="1">
           <mxGeometry x="830" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WjgJlmY67kMEzQ0u8_MV-9" value="UNATU HEAD OFFICE&lt;div&gt;Bombo Road&lt;/div&gt;&lt;div style=&quot;&quot;&gt;HQ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);align=left;" vertex="1" parent="1">
+        <mxCell id="WjgJlmY67kMEzQ0u8_MV-9" value="UNATU HEAD OFFICE&lt;div&gt;Bombo Road&lt;/div&gt;&lt;div style=&quot;&quot;&gt;HQ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);align=left;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-60" y="40" width="220" height="50" as="geometry" />
         </mxCell>
       </root>
