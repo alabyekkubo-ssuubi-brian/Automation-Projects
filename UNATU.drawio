@@ -25,10 +25,12 @@
         <mxCell id="k5pUPagfCENTA0EcS7Cd-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" parent="1" source="k5pUPagfCENTA0EcS7Cd-4" target="k5pUPagfCENTA0EcS7Cd-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k5pUPagfCENTA0EcS7Cd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#FFFFFF,#000000);" parent="1" edge="1">
+        <mxCell id="WjgJlmY67kMEzQ0u8_MV-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k5pUPagfCENTA0EcS7Cd-4" target="WjgJlmY67kMEzQ0u8_MV-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="529.5" y="300" as="sourcePoint" />
-            <mxPoint x="529.5" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="350" />
+              <mxPoint x="470" y="350" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="k5pUPagfCENTA0EcS7Cd-4" value="DISTRIBUTION SWITCH&lt;div&gt;cisco WS-C2960X-48FPS-L&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" parent="1" vertex="1">
@@ -49,9 +51,6 @@
         </mxCell>
         <mxCell id="k5pUPagfCENTA0EcS7Cd-12" value="Acess Point&amp;nbsp;&amp;nbsp;&lt;div&gt;GS Office&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);shadow=0;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" parent="1" vertex="1">
           <mxGeometry x="820" y="310" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="k5pUPagfCENTA0EcS7Cd-15" value="LAN" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" parent="1" vertex="1">
-          <mxGeometry x="470" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k5pUPagfCENTA0EcS7Cd-17" value="QUICK BOOKS&lt;div&gt;(VM)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" parent="1" vertex="1">
           <mxGeometry x="190" y="490" width="120" height="60" as="geometry" />
@@ -82,6 +81,9 @@
         </mxCell>
         <mxCell id="WjgJlmY67kMEzQ0u8_MV-9" value="UNATU HEAD OFFICE&lt;div&gt;Bombo Road&lt;/div&gt;&lt;div style=&quot;&quot;&gt;HQ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);align=left;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-60" y="40" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WjgJlmY67kMEzQ0u8_MV-10" value="LAN" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);rounded=1;shadow=0;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="410" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
