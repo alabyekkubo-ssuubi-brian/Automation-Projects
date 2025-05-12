@@ -13,7 +13,7 @@
         <mxCell id="k5pUPagfCENTA0EcS7Cd-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" parent="1" source="k5pUPagfCENTA0EcS7Cd-2" target="k5pUPagfCENTA0EcS7Cd-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k5pUPagfCENTA0EcS7Cd-2" value="CISCO ROUTER&lt;div&gt;CISCO C3825&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" parent="1" vertex="1">
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-2" value="CORE ROUTER&lt;div&gt;CISCO C3825&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" parent="1" vertex="1">
           <mxGeometry x="360" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k5pUPagfCENTA0EcS7Cd-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" parent="1" source="k5pUPagfCENTA0EcS7Cd-4" target="k5pUPagfCENTA0EcS7Cd-10" edge="1">
@@ -25,8 +25,11 @@
         <mxCell id="k5pUPagfCENTA0EcS7Cd-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" parent="1" source="k5pUPagfCENTA0EcS7Cd-4" target="k5pUPagfCENTA0EcS7Cd-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k5pUPagfCENTA0EcS7Cd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" parent="1" source="k5pUPagfCENTA0EcS7Cd-4" target="k5pUPagfCENTA0EcS7Cd-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#FFFFFF,#FFFFFF);" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="529.5" y="300" as="sourcePoint" />
+            <mxPoint x="529.5" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="k5pUPagfCENTA0EcS7Cd-4" value="DISTRIBUTION SWITCH&lt;div&gt;cisco WS-C2960X-48FPS-L&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" parent="1" vertex="1">
           <mxGeometry x="250" y="240" width="340" height="60" as="geometry" />
@@ -48,7 +51,7 @@
           <mxGeometry x="820" y="310" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k5pUPagfCENTA0EcS7Cd-15" value="LAN" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" parent="1" vertex="1">
-          <mxGeometry x="360" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k5pUPagfCENTA0EcS7Cd-17" value="QUICK BOOKS&lt;div&gt;(VM)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" parent="1" vertex="1">
           <mxGeometry x="190" y="490" width="120" height="60" as="geometry" />
