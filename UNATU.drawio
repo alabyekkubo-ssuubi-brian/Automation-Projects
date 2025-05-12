@@ -7,7 +7,7 @@
         <mxCell id="k5pUPagfCENTA0EcS7Cd-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" parent="1" source="k5pUPagfCENTA0EcS7Cd-1" target="k5pUPagfCENTA0EcS7Cd-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k5pUPagfCENTA0EcS7Cd-1" value="INTENET" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+        <mxCell id="k5pUPagfCENTA0EcS7Cd-1" value="INTERNET" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" parent="1" vertex="1">
           <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k5pUPagfCENTA0EcS7Cd-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" parent="1" source="k5pUPagfCENTA0EcS7Cd-2" target="k5pUPagfCENTA0EcS7Cd-4" edge="1">
