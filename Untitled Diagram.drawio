@@ -176,7 +176,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y5Xkvp_D-XkIet8DBBUn-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;Human Actor&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(Cognitive Bias, Human Error)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="140" x="-40" y="67.2" as="geometry" />
+          <mxGeometry height="127.2" width="140" x="-40" y="50" as="geometry" />
         </mxCell>
         <mxCell id="y5Xkvp_D-XkIet8DBBUn-59" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;TeenApp&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(Android &amp;amp; IOS Client, Multimodal I/O)&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="140" x="-40" y="220" as="geometry" />
@@ -188,7 +188,7 @@
           <mxGeometry height="50" width="60" x="-30" y="239.39999999999998" as="geometry" />
         </mxCell>
         <mxCell id="y5Xkvp_D-XkIet8DBBUn-66" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_stack/User_Subscriptions.svg;fontColor=light-dark(#000000,#FF9933);" value="" vertex="1">
-          <mxGeometry height="58.24" width="60" y="69.75999999999999" as="geometry" />
+          <mxGeometry height="48" width="49.45" x="10" y="68.8" as="geometry" />
         </mxCell>
         <mxCell id="y5Xkvp_D-XkIet8DBBUn-70" edge="1" parent="1" source="y5Xkvp_D-XkIet8DBBUn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.836;entryY=0.769;entryDx=0;entryDy=0;entryPerimeter=0;" target="TpnUAy-rv1sVJUMCEG_B-1">
           <mxGeometry relative="1" as="geometry" />
@@ -209,9 +209,6 @@
         </mxCell>
         <mxCell id="y5Xkvp_D-XkIet8DBBUn-99" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Media_Converter_Standalone_POE.svg;imageBackground=default;" value="" vertex="1">
           <mxGeometry height="37.2" width="45.6" x="770" y="140" as="geometry" />
-        </mxCell>
-        <mxCell id="y5Xkvp_D-XkIet8DBBUn-102" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="DEVICE" vertex="1">
-          <mxGeometry height="30" width="140" x="-40" y="27.150000000000002" as="geometry" />
         </mxCell>
         <mxCell id="y5Xkvp_D-XkIet8DBBUn-103" edge="1" parent="1" source="TpnUAy-rv1sVJUMCEG_B-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.61;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=light-dark(#000000,#0066CC);" target="y5Xkvp_D-XkIet8DBBUn-20">
           <mxGeometry relative="1" as="geometry" />
