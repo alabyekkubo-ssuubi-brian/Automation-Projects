@@ -209,7 +209,7 @@
             <mxPoint y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y5Xkvp_D-XkIet8DBBUn-99" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Media_Converter_Standalone_POE.svg;imageBackground=default;" value="" vertex="1">
+        <mxCell id="y5Xkvp_D-XkIet8DBBUn-99" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Media_Converter_Standalone_POE.svg;imageBackground=light-dark(#FFFFFF,#AED6F1);" value="" vertex="1">
           <mxGeometry height="37.2" width="45.6" x="770" y="140" as="geometry" />
         </mxCell>
         <mxCell id="y5Xkvp_D-XkIet8DBBUn-103" edge="1" parent="1" source="TpnUAy-rv1sVJUMCEG_B-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.61;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="y5Xkvp_D-XkIet8DBBUn-20">
