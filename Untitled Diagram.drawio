@@ -170,14 +170,6 @@
             <mxPoint x="2" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vs50j9BnocDZWjH5U2Mc-47" edge="1" parent="1" source="vs50j9BnocDZWjH5U2Mc-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" target="vs50j9BnocDZWjH5U2Mc-50" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vs50j9BnocDZWjH5U2Mc-48" connectable="0" parent="vs50j9BnocDZWjH5U2Mc-47" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#D1E9F6);" value="Interaction" vertex="1">
-          <mxGeometry relative="1" x="0.2114" y="-3" as="geometry">
-            <mxPoint x="33" y="-10" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vs50j9BnocDZWjH5U2Mc-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#D1E9F6);fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;Human Actor&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(Cognitive Bias, Human Error)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="117.2" width="140" x="-40" y="60" as="geometry" />
         </mxCell>
@@ -279,6 +271,12 @@
         <mxCell id="8KwnDPReTSbSqu4cp6PV-16" connectable="0" parent="8KwnDPReTSbSqu4cp6PV-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" value="&lt;font style=&quot;&quot;&gt;Configuration Data&lt;/font&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.2124" as="geometry">
             <mxPoint x="140" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8KwnDPReTSbSqu4cp6PV-18" edge="1" parent="1" source="vs50j9BnocDZWjH5U2Mc-50" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" target="vs50j9BnocDZWjH5U2Mc-49" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="10" y="220" as="sourcePoint" />
+            <mxPoint x="60" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
